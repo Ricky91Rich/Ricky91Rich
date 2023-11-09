@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Ricky91Rich
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Ricky91Rich/Ricky91Rich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Quisiera trabajar en una App para celular, tipo blog donde pueda cargar texto, imagenes, videos.
+quiisera que se pudierna ver secciones de todas las publicaciones mensuales, y tambien que se dividiera por bloques o secciones.
+de igual manera quiero que se divida por mes todas las publicaciones que llegue a realizar, mas o menas estaria buscando que la aoplicacion fuera un tipo Facebook interno
